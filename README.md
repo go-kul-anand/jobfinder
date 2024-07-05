@@ -9,10 +9,13 @@ TECHNOLOGIES USED
          SQLAlchemy
          SQLite
          Swagger UI
-From What websites Jobs are scraped
+WEBSITES SCRAPPED
+         
          NAUKRI
          Timesjob
+
 Requirements:
+      
         1.NAUKRI
                 requests
                 pandas
